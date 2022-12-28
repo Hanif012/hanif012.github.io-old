@@ -6,8 +6,8 @@
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/page/about/"
+                hreflang="id"
+                href="https://hanif012.github.io/id/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -19,13 +19,8 @@
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://hanif012.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/"
+                hreflang="id"
+                href="https://hanif012.github.io/id/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -38,24 +33,12 @@
                 href="https://hanif012.github.io/en/"
                 />
   </url><url>
-    <loc>https://hanif012.github.io/en/page/</loc>
+    <loc>https://hanif012.github.io/en/blog/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hanif012.github.io/en/page/"
-                />
-  </url><url>
-    <loc>https://hanif012.github.io/en/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/blog/"
+                hreflang="id"
+                href="https://hanif012.github.io/id/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,16 +46,24 @@
                 href="https://hanif012.github.io/en/blog/"
                 />
   </url><url>
-    <loc>https://hanif012.github.io/en/categories/</loc>
+    <loc>https://hanif012.github.io/en/page/</loc>
+    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://hanif012.github.io/fr/categories/"
+                hreflang="id"
+                href="https://hanif012.github.io/id/page/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/categories/"
+                hreflang="en"
+                href="https://hanif012.github.io/en/page/"
+                />
+  </url><url>
+    <loc>https://hanif012.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://hanif012.github.io/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,13 +79,8 @@
     <loc>https://hanif012.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://hanif012.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://hanif012.github.io/de/tags/"
+                hreflang="id"
+                href="https://hanif012.github.io/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
