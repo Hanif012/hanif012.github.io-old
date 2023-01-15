@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hanif012.github.io/en/tags/announcement/</loc>
-    <lastmod>2022-12-28T17:27:50+07:00</lastmod>
-  </url><url>
     <loc>https://hanif012.github.io/en/</loc>
-    <lastmod>2022-12-28T17:27:50+07:00</lastmod>
+    <lastmod>2022-12-29T15:01:31+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -23,8 +20,11 @@
                 href="https://hanif012.github.io/en/"
                 />
   </url><url>
+    <loc>https://hanif012.github.io/en/tags/game/</loc>
+    <lastmod>2022-12-29T15:01:31+07:00</lastmod>
+  </url><url>
     <loc>https://hanif012.github.io/en/tags/</loc>
-    <lastmod>2022-12-28T17:27:50+07:00</lastmod>
+    <lastmod>2022-12-29T15:01:31+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
@@ -40,6 +40,12 @@
                 hreflang="en"
                 href="https://hanif012.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://hanif012.github.io/en/blog/what-is-a-game/</loc>
+    <lastmod>2022-12-29T15:01:31+07:00</lastmod>
+  </url><url>
+    <loc>https://hanif012.github.io/en/tags/announcement/</loc>
+    <lastmod>2022-12-28T17:27:50+07:00</lastmod>
   </url><url>
     <loc>https://hanif012.github.io/en/blog/introduction/</loc>
     <lastmod>2022-12-28T17:27:50+07:00</lastmod>
